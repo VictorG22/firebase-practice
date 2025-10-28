@@ -1,3 +1,7 @@
+## Languages used in this project 
+
+ HTML, CSS, JavaScript, React, Firebase/Firestore
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
